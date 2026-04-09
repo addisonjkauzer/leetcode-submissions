@@ -85,4 +85,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Array
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
