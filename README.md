@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Backtracking
