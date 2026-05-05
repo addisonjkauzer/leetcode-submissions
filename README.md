@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1470-shuffle-the-array](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,4 +125,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
+## Hash Table
+|  |
+| ------- |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 <!---LeetCode Topics End-->
